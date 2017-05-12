@@ -347,5 +347,6 @@ __pycache__/
 *.xsd.cs
 
 # End of https://www.gitignore.io/api/visualstudio,visualstudiocode,windows,vim,linux
-AoK HD.rar arma3_x64.rar
-AoK HD.exe AoK HD_L.exe arma3_x64.exe
+
+*.exe
+*.rar
